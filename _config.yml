@@ -1,0 +1,8 @@
+title: Zander Stolfi
+logo: https://github.com/user-attachments/assets/b10f548d-66b2-4a88-885e-f42a8dd8eec4
+description: Student stenographer & Programmer
+theme: jekyll-theme-minimal
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
