@@ -8,5 +8,5 @@ Browse single-stroke dictionary entries via [Hibert curve](https://en.wikipedia.
 
 * * *
 
-# [Atlas Source Code](https://github.com/zstolfi/steno/tree/main/atlas/src)
+# [Atlas Source Code](https://github.com/zstolfi/steno/tree/main/atlas/src#steno-atlas)
 Written in C++. Uses a work in progress API for computing with steno strokes/briefs.
